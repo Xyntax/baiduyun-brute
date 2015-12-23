@@ -14,5 +14,6 @@
     `python sub.py -t 50 "http://pan.baidu.com/share/init?shareid=385857944&uk=1544574381"`  
  3. 结果在命令行显示，同时存储到`./pass.txt`查看  
     ![pass-found.png](http://www.cdxy.me/wp-content/uploads/2015/12/pass-found.png)  
+  
 ## reference  
  - 多线程框架参考[lijiejie](https://github.com/lijiejie)大师的项目[subDomainsBrute](https://github.com/lijiejie/subDomainsBrute)
