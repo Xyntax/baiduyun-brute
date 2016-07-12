@@ -2,7 +2,7 @@
 多线程百度云(私密分享)密码爆破工具  
 问题请反馈至 i@cdxy.me  
   
-**2016/6/7 由于漏洞修复，该工具现已失效，多线程定向爆破可参考[https://github.com/Xyntax/POC-T/blob/master/module/brute-example.py](https://github.com/Xyntax/POC-T/blob/master/module/brute-example.py)**  
+**2016/6/7 由于漏洞修复，该工具现已失效，多线程定向爆破可参考[https://github.com/Xyntax/POC-T/blob/master/script/brute-example.py](https://github.com/Xyntax/POC-T/blob/master/script/brute-example.py)**  
 
 ## info  
 爆破百度云私密分享的四位密码(共168万条)  
